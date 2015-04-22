@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oi="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <com.qi.library.view.OiTextView
+        android:id="@+id/OiTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        oi:text="LOADING"
+        oi:textColor="#000000"
+        oi:textSize="16sp" />
+
+    <com.qi.library.view.OiButton
+        android:id="@+id/OiButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/OiTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        oi:text="Cancle"
+        oi:textColor="#000000"
+        oi:textSize="12sp" />
+
+</RelativeLayout>
