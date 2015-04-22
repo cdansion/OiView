@@ -57,7 +57,7 @@ Button的例子比较看出来
 自定义样式已经写完，可以写代码了
 TextView:
 ```Java
-OiTextView	oiTextView = (OiTextView) findViewById(R.id.OiTextView);
+OiTextView oiTextView = (OiTextView) findViewById(R.id.OiTextView);
 oiTextView.setInTime(0.2f);
 oiTextView.setOutTime(0.2f);
 oiTextView.setTextColor(Color.RED);
