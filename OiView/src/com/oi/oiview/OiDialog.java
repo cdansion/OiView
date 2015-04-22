@@ -1,4 +1,4 @@
-package com.inbox.oiview;
+package com.oi.oiview;
 
 import android.app.Dialog;
 import android.graphics.Color;
@@ -7,10 +7,10 @@ import android.support.v4.app.DialogFragment;
 import android.view.Gravity;
 import android.view.View;
 
-import com.inbox.oiview.R;
-import com.qi.library.util.OiView;
-import com.qi.library.view.OiButton;
-import com.qi.library.view.OiTextView;
+import com.oi.library.util.OiView;
+import com.oi.library.view.OiButton;
+import com.oi.library.view.OiTextView;
+import com.oi.oiview.R;
 
 /**
  * <p>

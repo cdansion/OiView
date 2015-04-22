@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#ffffff" >
 
-    <com.qi.library.view.OiTextView
+    <com.oi.library.view.OiTextView
         android:id="@+id/OiTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,7 +14,7 @@
         oi:textColor="#000000"
         oi:textSize="16sp" />
 
-    <com.qi.library.view.OiButton
+    <com.oi.library.view.OiButton
         android:id="@+id/OiButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package com.qi.library.util;
+package com.oi.library.util;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -13,10 +13,11 @@ import android.view.animation.Transformation;
 
 import java.util.ArrayList;
 
-import com.qi.library.util.OiItem;
-import com.qi.library.util.OiPath;
-import com.qi.library.util.OiView;
-import com.qi.library.util.Utils;
+import com.oi.library.util.OiItem;
+import com.oi.library.util.OiPath;
+import com.oi.library.util.OiView;
+import com.oi.library.util.Utils;
+
 
 /**
  * Description:OiBaseTextView

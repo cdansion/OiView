@@ -5,27 +5,27 @@
     android:layout_height="match_parent"
     android:background="#000000" >
 
-    <com.qi.library.view.OiTextView
+    <com.oi.library.view.OiTextView
         android:id="@+id/OiTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         oi:text="Dear" />
 
-    <com.qi.library.view.OiTextView
+    <com.oi.library.view.OiTextView
         android:id="@+id/OiTextView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/OiTextView"
         oi:text="This is a test " />
 
-    <com.qi.library.view.OiTextView
+    <com.oi.library.view.OiTextView
         android:id="@+id/OiTextView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/OiTextView1"
         oi:text="Want to go out and see the world's great" />
 
-    <com.qi.library.view.OiTextView
+    <com.oi.library.view.OiTextView
         android:id="@+id/OiTextView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -40,7 +40,7 @@
         android:layout_centerHorizontal="true"
         android:max="100" />
 
-    <com.qi.library.view.OiButton
+    <com.oi.library.view.OiButton
         android:id="@+id/OiButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package com.qi.library.util;
+package com.oi.library.util;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

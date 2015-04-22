@@ -1,4 +1,4 @@
-package com.qi.library;
+package com.oi.library;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

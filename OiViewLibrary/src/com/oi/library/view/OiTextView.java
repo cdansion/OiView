@@ -1,4 +1,4 @@
-package com.qi.library.view;
+package com.oi.library.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -6,8 +6,8 @@ import android.graphics.Color;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 
-import com.qi.library.util.OiView;
-import com.qi.oiviewlibrary.R;
+import com.oi.library.util.OiView;
+import com.oi.oiviewlibrary.R;
 
 
 /**

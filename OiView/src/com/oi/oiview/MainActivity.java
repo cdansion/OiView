@@ -1,12 +1,12 @@
-package com.inbox.oiview;
+package com.oi.oiview;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
 import android.widget.SeekBar;
 
-import com.inbox.oiview.R;
-import com.qi.library.view.OiTextView;
+import com.oi.library.view.OiTextView;
+import com.oi.oiview.R;
 
 /**
  * <p>

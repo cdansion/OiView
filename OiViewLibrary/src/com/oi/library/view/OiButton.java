@@ -1,10 +1,11 @@
-package com.qi.library.view;
+package com.oi.library.view;
 
 import android.content.Context;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 
-import com.qi.library.util.OiPath;
+import com.oi.library.util.OiPath;
+import com.oi.library.view.OiTextView;
 
 
 /**

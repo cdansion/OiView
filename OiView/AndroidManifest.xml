@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.inbox.oiview"
+    package="com.oi.oiview"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,7 +12,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.inbox.oiview.MainActivity" >
+        <activity android:name="com.oi.oiview.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
