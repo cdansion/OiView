@@ -9,7 +9,7 @@
 
 您可以使用OiView：
 
-> *  简单灵活，直接调用，个性化定制
+> * 简单灵活，直接调用，个性化定制
 > * 酷炫，灵活，符合潮流
 > * 学会了可以给Ta一个惊喜，遇到Ta的时候能搭讪
 
@@ -48,9 +48,9 @@ android配置:http://blog.csdn.net/webrobot/article/details/7304831
 ```
 `com.oi.library.view.OiTextView`&&`com.oi.library.view.OiButton`这个是命名空间，写过自定义插件童鞋门应该知道的
 `oi:xxxx`这个是相应自定义属性
-> *textColor 是重写了android:textColor属性
-> *textSize 是重写了android:textSize属性
-> *text 是重写了android:text的属性
+> * textColor 是重写了android:textColor属性
+> * textSize 是重写了android:textSize属性
+> * text 是重写了android:text的属性
 
 Button的例子比较看出来
 
@@ -64,12 +64,12 @@ oiTextView.setTextColor(Color.RED);
 oiTextView.setProgress(progress * 1f / 100);
 ```
 重要参数说明:其他方法可以看OiView
-> *setInTime(float mTime) 设置划入动画时长
-> *setOutTime(float mTime) 设置划出动画时长
-> *setLight(boolean isLight) 划入后是否开始闪光
-> *setPaddingTop(int dp) 设置划入动画的高度
-> *setTextSize(float mTextSize) 设置字体大小
-> *show() 展示
-> *hide() 隐藏
+> * setInTime(float mTime) 设置划入动画时长
+> * setOutTime(float mTime) 设置划出动画时长
+> * setLight(boolean isLight) 划入后是否开始闪光
+> * setPaddingTop(int dp) 设置划入动画的高度
+> * setTextSize(float mTextSize) 设置字体大小
+> * show() 展示
+> * hide() 隐藏
 
 OiButton是继承OiTextView，所大同小异
