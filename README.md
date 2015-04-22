@@ -20,10 +20,10 @@
 不多说上gif图片
 
 ###通常第一步配置咯
-jdk下载:http://www.oracle.com/technetwork/java/javase/downloads/index.html
-jdk配置:http://www.cnblogs.com/xing901022/p/3955794.html
-android&&android Studio 下载 的请用https://dl.google.com/dl/android/studio/install/1.1.0/android-studio-bundle-135.1740770-windows.exe
-android配置:http://blog.csdn.net/webrobot/article/details/7304831
+> * jdk下载:http://www.oracle.com/technetwork/java/javase/downloads/index.html
+> * jdk配置:http://www.cnblogs.com/xing901022/p/3955794.html
+> * android&&android Studio 下载 的请用https://dl.google.com/dl/android/studio/install/1.1.0/android-studio-bundle-135.1740770-windows.exe
+> * android配置:http://blog.csdn.net/webrobot/article/details/7304831
 
 ###好了配置好，可以去开发了
 先定义自己的页面
