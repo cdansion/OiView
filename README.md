@@ -73,5 +73,3 @@ oiTextView.setProgress(progress * 1f / 100);
 > hide() 隐藏
 
 OiButton是继承OiTextView，所大同小异
-
-    此处输入代码
